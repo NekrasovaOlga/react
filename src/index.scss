@@ -1,0 +1,8 @@
+@import './style/fonts.scss';
+
+$color: tomato;
+
+body {
+    color: $color;
+    font-family: Inter, sans-serif;
+}
